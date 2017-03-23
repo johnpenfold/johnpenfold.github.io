@@ -1,0 +1,7 @@
+name: "http://johnpenfold.github.io"
+navbar:
+  title: "FOCUSED PHOTOGRAPHIC"
+  right:
+    - icon: fa-envelope
+      href: mailto:john.penfold@hotmail.com
+output_dir: "."

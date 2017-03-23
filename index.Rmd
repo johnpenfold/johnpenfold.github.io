@@ -1,0 +1,22 @@
+---
+title: ""
+output:
+  html_document:
+    theme: sandstone
+    highlight: pygments
+    fig_width: 7
+    css: styles.css
+    include:
+      in_header: header.html
+      after_body: footer.html
+---
+
+<p>&nbsp;</p>
+
+<center><h2>Data science • Investment thoughts • Geeky stuff</h2></center>
+
+---
+
+
+
+***
