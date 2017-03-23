@@ -3,5 +3,5 @@ navbar:
   title: "FOCUSED PHOTOGRAPHIC"
   right:
     - icon: fa-envelope
-      href: mailto:john.penfold@hotmail.com
+      href: mailto:johnpenfold@hotmail.co.uk
 output_dir: "."
