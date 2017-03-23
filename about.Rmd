@@ -1,0 +1,31 @@
+---
+title: "John Penfold"
+output:
+  html_document:
+    theme: sandstone
+    highlight: pygments
+    include:
+      after_body: footer.html
+---
+
+<p>&nbsp;</p>
+
+### Contact Me
+
+<p>&nbsp;</p>
+
+  * Mobile - 07917 116974
+  
+  * Email - johnpenfold@hotmail.co.uk 
+
+<p>&nbsp;</p>
+
+### About Me
+
+<p>&nbsp;</p>
+
+I've been running Focused Photographic since 2004, after starting in the camera business in 1990. Why Focused? Because I care about giving great customer service and I specialise in Hasselblad and Nikon.
+
+<p>&nbsp;</p>
+
+---

@@ -1,6 +1,11 @@
 name: "http://johnpenfold.github.io"
 navbar:
   title: "FOCUSED PHOTOGRAPHIC"
+  left:
+    - text: "HOME"
+      href: index.html
+    - text: "ABOUT"
+      href: about.html
   right:
     - icon: fa-envelope
       href: mailto:johnpenfold@hotmail.co.uk
