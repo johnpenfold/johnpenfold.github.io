@@ -13,11 +13,10 @@ output:
 
 <p>&nbsp;</p>
 
-<center><h2> John Penfold </h2></center>
 <center><h3> Hasselblad and Nikon Specialist  • Great Customer Focus </h3></center>
 
 ---
 
-<iframe src="https://robin.shinyapps.io/cameras/" style="border: none; width: 1000px; height: 700px"></iframe>
+<iframe src="https://robin.shinyapps.io/cameras/" style="border: none; width: 1000px; height: 750px"></iframe>
 
 ***
