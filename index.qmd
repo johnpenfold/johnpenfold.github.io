@@ -5,7 +5,7 @@ image: JP.jpeg
 about:
   template: jolla
 ---
-📞 07917 116974 — 📷 [My e-bay](http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from=){target="_blank"} — 📧 [My email](mailto:focusedphotographic@hotmail.com)
+📞 07917 116974 | 📷 [My e-bay](http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from=){target="_blank"} | 📧 [Email](mailto:focusedphotographic@hotmail.com)
 
 <br/>
 I'd love to hear from you ... whether you're buying, selling or just want some guidance
