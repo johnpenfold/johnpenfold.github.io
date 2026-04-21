@@ -38,6 +38,7 @@ about:
       href: "http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from="
     - icon: telephone
       text: 07917 116974
+      href: "tel:+447917116974"
 ---
 
 :::{#hero-heading}
