@@ -3,6 +3,7 @@ title: |
   Experienced Hasselblad and Nikon Specialist with Great Customer Focus | Leeds, UK 
     
   John Penfold | Focused Photograpic
+pagetitle: Focused Photographic
 include-in-header:
   text: |
     <script type="application/ld+json">
