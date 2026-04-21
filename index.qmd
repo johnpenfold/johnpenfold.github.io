@@ -1,9 +1,8 @@
 ---
-title: "|
-Experienced Hasselblad and Nikon Specialist with Great Customer Focus | Leeds, UK 
-<br/>
-
-John Penfold | Focused Photograpic"
+title: |
+  Experienced Hasselblad and Nikon Specialist with Great Customer Focus | Leeds, UK 
+    
+  John Penfold | Focused Photograpic
 include-in-header:
   text: |
     <script type="application/ld+json">
@@ -12,7 +11,7 @@ include-in-header:
       "@type": "CameraStore",
       "name": "Focused Photographic",
       "url": "https://focusedphotographic.com",
-      "description": "Specialist UK dealer of new and used Hasselblad and Nikon camera systems.",
+      "description": "Specialist UK dealer of new and used Hasselblad and Nikon camera systems of high quality.",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Your City",
