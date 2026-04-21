@@ -1,21 +1,28 @@
 ---
 title: "John Penfold | Focused Photograpic"
 subtitle: "Experienced Hasselblad and Nikon Specialist with Great Customer Focus"
-image: JP.webp
 about:
+  id: hero-heading
   template: jolla
+  image: JP.webp
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:focusedphotographic@hotmail.com"
+    - icon: cart3
+      text: My e-bay
+      href: "http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from="
+    - icon: telephone
+      text: 07917 116974
 ---
-📞 07917 116974 | 📷 [My e-bay](http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from=){target="_blank"} | 📧 [Email](mailto:focusedphotographic@hotmail.com)
 
-<br/>
-I'd love to hear from you ... whether you're buying, selling or just want some guidance
-
-<br/>
-
---- 
+:::{#hero-heading}
+:::
 
 <br/>
 
-You're always welcome to come and find me in Leeds. Or you can meet me at my usual spot at the main camera fairs, including Photographica, Wolverhampton and Frome
-
-After starting in the camera business in 1990, I've run Focused Photographic since 2004. ('Focused' because I care about giving great customer service, and mainly feature Hasselblad and Nikon.)
+::: {.camera-list}
+- I'd love to hear from you ... whether you're buying, selling or just want some guidance
+- You're always welcome to visit me in Leeds or meet me at my usual spot at the main camera fairs (including Photographica, Wolverhampton and Frome)
+- After starting in the camera business in 1990, I've run Focused Photographic since 2004. ('Focused' because I care about giving great customer service, and mainly feature Hasselblad and Nikon.)
+:::

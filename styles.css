@@ -1,0 +1,13 @@
+.camera-list ul {
+  list-style: none; /* Hide standard dots */
+  padding-left: 1.5rem; /* Ensure space for the icon */
+}
+
+.camera-list li::before {
+  content: "\F220"; /* The code for the camera icon */
+  font-family: "bootstrap-icons";
+  display: inline-block;
+  width: 1.5em; /* Spacing between icon and text */
+  margin-left: -1.5em; /* Pull icon into the padding area */
+  color: #0d6efd; /* Optional: Sets the color to Bootstrap blue */
+}
