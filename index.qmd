@@ -1,6 +1,7 @@
 ---
 title: "John Penfold | Focused Photograpic"
 subtitle: "Experienced Hasselblad and Nikon Specialist with Great Customer Focus"
+css: styles.css
 about:
   id: hero-heading
   template: jolla
