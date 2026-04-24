@@ -32,13 +32,15 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:focusedphotographic@hotmail.com"
+      href: mailto:focusedphotographic@hotmail.com
     - icon: instagram
       text: Instagram
-      href: "https://www.instagram.com/jp.cameras"
+      href: https://www.instagram.com/jp.cameras
+      target: _blank
     - icon: cart3
       text: My e-bay
-      href: "http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from="
+      href: http://www.ebay.co.uk/sch/imagingeye/m.html?_nkw=&_armrs=1&_ipg=&_from=
+      target: _blank
     - icon: telephone
       text: 07917 116974
       href: "tel:+447917116974"
